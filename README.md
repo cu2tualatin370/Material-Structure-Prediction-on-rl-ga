@@ -10,8 +10,8 @@ how to use it:
   first you you should check the requirements.txt to confirm your cuda version.
   my cuda version is 126 if your cuda is not this version. 
   change the version is the file to the right version. 
-  then run the file setup_win.ps1 in powershell.
+  then run the file setup_win.ps1 in powershell and make sure there is conda in your computer
 other things:
-although I have not check if the file setup_win.ps1 can run
+although I have not check either the file setup_win.ps1 can run or not
 but I confirm that my code have no fault
 if you fail check your nvidia drivers version and other things
