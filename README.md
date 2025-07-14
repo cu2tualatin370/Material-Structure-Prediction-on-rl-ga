@@ -7,3 +7,11 @@ process of the project:
   the project only finish the code of generate the initial population until now.
   there is no ga and rl but I believe there will be them soon.
 how to use it:
+  first you you should check the requirements.txt to confirm your cuda version.
+  my cuda version is 126 if your cuda is not this version. 
+  change the version is the file to the right version. 
+  then run the file setup_win.ps1 in powershell.
+other things:
+although I have not check if the file setup_win.ps1 can run
+but I confirm that my code have no fault
+if you fail check your nvidia drivers version and other things
